@@ -12,7 +12,7 @@ public class StudentAndClassroomVo {
     private String sname;
     private int sage;
     private String saddress;
-    private String ww;
+
     //班级相关的信息
     private String cid;
     private String cname;
